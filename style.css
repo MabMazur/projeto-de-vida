@@ -5,7 +5,7 @@
     --verde: #153f10;
     --branco: #db590d;
      --botao-ativo: #522406ec;
-    --botao-inativo: rgba(72, 219, 195, 0.904);
+  --botao-inativo: rgba(85, 8, 8, 0.904);
     --texto-fundo: rgba(3, 2, 20, 0.3);
     background-color: var(--cor-de-fundo);
     color: var(--branco);
